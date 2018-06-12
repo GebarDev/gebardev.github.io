@@ -34,6 +34,8 @@ str_replace("-","",$strValue);
 SELECT * FROM table a WHERE a.value='true'
 ```
 
+SELECT * FROM table a WHERE a.value='true'
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
