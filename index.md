@@ -30,6 +30,9 @@ Syntax highlighted code block
 ```php
 str_replace("-","",$strValue);
 ```
+```sql
+SELECT * FROM table a WHERRE a.value='true'
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
