@@ -36,6 +36,9 @@ SELECT * FROM table a WHERE a.value='true'
 
 SELECT * FROM table a WHERE a.value='true'
 
+[Click me](http://www.google.com){: .btn}
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
