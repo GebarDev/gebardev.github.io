@@ -27,6 +27,10 @@ Syntax highlighted code block
 ```
 [Hello-world project](https://gebardev.github.io/hello-world/)
 
+```php
+str_replace("-","",$strValue);
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
